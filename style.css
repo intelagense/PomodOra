@@ -103,3 +103,6 @@ p {
     color: #90c0d1;
   }
   
+  .btn-start:focus {
+    outline: 2px solid red; 
+  }
